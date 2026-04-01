@@ -25,7 +25,7 @@ I'm a **B.Tech CSE student at SVNIT, Surat** passionate about building full-stac
 - 📈 Exploring **machine learning** for predictive analysis and data-driven insights
 - 🤖 Working on **IoT + computer vision** projects using Raspberry Pi and OpenCV
 - 🏆 **Treasurer @ ACM SVNIT** | Organized DotSlash 8.0 (1000+ registrations)
-- 🏋️ **Powerlifting Coordinator** @ Sports Affairs Council, SVNIT
+
 
 ---
 
@@ -91,13 +91,6 @@ I'm a **B.Tech CSE student at SVNIT, Surat** passionate about building full-stac
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=Anand-Tiwari2404&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7)
-
-</div>
 
 ---
 
